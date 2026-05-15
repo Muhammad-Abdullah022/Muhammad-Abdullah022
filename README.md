@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, I'm Muhammad Abdullah 👨‍💻</h1>
-  <p><b>Flutter Developer | Mobile App Developer | Oracle EBS | ERP Solutions | IT Infrastructure & Security</b></p>
+  <p><b>Flutter Developer | Mobile App Developer</b></p>
+  <p><b>Oracle EBS | ERP Solutions | IT Infrastructure & Security</b></p>
   <p>📍Okara | Pakistan</p>
 
   <a href="linkedin.com/in/muhammad-abdullah-guest-posting-79aa29316" target="_blank">

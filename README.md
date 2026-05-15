@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there 👋, I'm Muhammad Abdullah 👨‍💻</h1>
-  <p><b>Flutter Developer | Mobile App Developer</b></p>
+  <p><b>Flutter Developer | Mobile App Developer | Oracle EBS | ERP Solutions | IT Infrastructure & Security</b></p>
   <p>📍Okara | Pakistan</p>
 
   <a href="linkedin.com/in/muhammad-abdullah-guest-posting-79aa29316" target="_blank">
@@ -43,6 +43,22 @@
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br/>
+
+### 🛠️ Core Technical Expertise
+
+**Oracle Ecosystem & ERP**<br/>
+<img src="https://img.shields.io/badge/Oracle_EBS-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle EBS" />
+<img src="https://img.shields.io/badge/Oracle_Apex-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Apex" />
+
+**IT Infrastructure & Security**<br/>
+<img src="https://img.shields.io/badge/Network_Security-Shield-green?style=for-the-badge&logo=fortinet&logoColor=white" alt="Security" />
+<img src="https://img.shields.io/badge/Firewall_Setup-E02020?style=for-the-badge&logo=pfsense&logoColor=white" alt="Firewall" />
+
+**Automation & Workflow**<br/>
+<img src="https://img.shields.io/badge/n8n_Integrations-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+<img src="https://img.shields.io/badge/SQL-Expert-CC6699?style=for-the-badge&logo=oracle&logoColor=white" alt="SQL" />
 
 <br/>
 

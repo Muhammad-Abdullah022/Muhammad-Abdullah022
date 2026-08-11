@@ -71,8 +71,8 @@
 ### 🚀 Projects
 
 📱 **Music App (Flutter)**  
-- API based music app  
-- Song list, artist, image & player UI  
+- API-based music application  
+- Song list, artists, images & music player UI  
 
 🏥 **Hospital Management System**  
 - MERN Stack Web Application  
@@ -80,7 +80,23 @@
 
 📚 **Library Management System**  
 - Java OOP Desktop Application  
-- GUI based system for managing books & members  
+- GUI-based system for managing books & members  
+
+🏢 **Oracle EBS Customization & Development**  
+- Oracle Forms & Reports development  
+- SQL & PL/SQL Packages, Procedures & Functions  
+- Oracle EBS application customization  
+- Database objects and business process integration  
+
+📊 **Oracle BI Publisher Reporting**  
+- Developed BI Publisher Reports for Oracle EBS  
+- Created RTF Templates and SQL Data Models  
+- Report customization, testing & deployment  
+
+🔄 **Oracle EBS Application Migration**  
+- EBS application migration and deployment  
+- Instance testing and issue resolution  
+- MD-50 / MD-70 documentation & action plans  
 
 <br/>
 

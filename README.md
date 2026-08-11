@@ -18,13 +18,18 @@
 
 ### 👨‍💻 About Me
 
-- 📱 Flutter Mobile App Developer  
-- 🚀 Building **Modern Android & Cross-Platform Apps**
-- 🔗 Working with **REST APIs & Backend Integration**
-- 🎨 Passionate about **Clean UI / UX Design**
-- 💻 Currently learning **Advanced Flutter & MERN Stack**
+* 📱 Flutter Mobile App Developer
+* 🚀 Building **Modern Android & Cross-Platform Apps**
+* 🔗 Working with **REST APIs & Backend Integration**
+* 🎨 Passionate about **Clean UI / UX Design**
+* 🏢 Oracle EBS Developer & ERP Consultant
+* ⚙️ Skilled in **Oracle Forms, Reports, SQL & PL/SQL**
+* 🗄️ Working with **Oracle Database & EBS Application Development**
+* 🔄 Experience in **EBS Customization, Reports & Application Migration**
+* 💻 Currently learning **Advanced Flutter & MERN Stack**
 
 <br/>
+
 
 ### 🛠️ Mobile Development Stack
 
